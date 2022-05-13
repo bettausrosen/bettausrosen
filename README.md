@@ -1,7 +1,7 @@
 - ⚡ Hi, I’m @bettausrosen
 - 💫 I’m interested in Music and Traveling
 - 💻 I’m currently learning Java and C++
-- 📫 You can reach me on Discord: bettausrosen#5050
+- 📫 You can reach me on Discord: bettausrosen#7630
 
 <!---
 bettausrosen/bettausrosen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
