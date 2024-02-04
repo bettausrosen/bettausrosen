@@ -1,7 +1,8 @@
 - ⚡ Hi, I’m @bettausrosen
-- 💫 I’m interested in Music and Traveling
-- 💻 I’m currently learning Java, Javascript, Python and C++
-- 📫 You can reach me on Discord: bettausrosen#8553
+- 🗺️ Living in Germany 🇩🇪
+- 🌌 Interested in Music and Traveling
+- 💻 Coding in Java ☕, Python 🐍, and C# 🎯
+- 📫 You can reach me on Discord: bettausrosen
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=de&hide_border=false&username=bettausrosen" height="150" alt="stats graph"/>
