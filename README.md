@@ -7,10 +7,10 @@
 
 🔗 **Socials**: [@einbettausrosen](https://instagram.com/einbettausrosen) | [@Ravanity](https://twitter.com/RavanityNetwork)
 
-🛠️ **Organizations**: [@VentinusEU](https://github.com/VentinusEU) | [@Ravanity](https://github.com/Ravanity)
+🛠️ **Organizations**: [@Ravanity](https://github.com/Ravanity)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettausrosen&theme=dark" height="175" alt="languages graph"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=de&hide_border=false&username=bettausrosen" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bettausrosen&show_icons=true&theme=dark" height="150" alt="stats graph"/>
 </div>
