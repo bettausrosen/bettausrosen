@@ -5,7 +5,7 @@
 💻 Coding in Java ☕, Python 🐍, and C# 🎯  
 📫 Reach me on Discord: @bettausrosen  
 
-🔗 **Socials**: [@einbettausrosen](https://instagram.com/einbettausrosen) | [@Ravanity](https://twitter.com/RavanityNetwork)
+🔗 **Socials**: [@einbettausrosen](https://x.com/einbettausrosen) | [@Ravanity](https://discord.gg/ravanity)
 
 🛠️ **Organizations**: [@Ravanity](https://github.com/Ravanity)
 
