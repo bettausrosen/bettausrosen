@@ -1,16 +1,21 @@
-### Hi there, I'm bettausrosen 👋
+# bettausrosen
 
-🌍 Living in Cologne, Germany 🇩🇪  
-🎶 Passionate about Music, 🌄 Traveling, and 🎨 Art  
-💻 Coding in Java ☕, Python 🐍, and C# 🎯  
-📫 Reach me on Discord: @bettausrosen  
+**🇩🇪 18 · he/they · Java Developer**
 
-🔗 **Socials**: [@einbettausrosen](https://x.com/einbettausrosen) | [@Ravanity](https://discord.gg/ravanity)
+> computer sciene student in Cologne/Münster  
+> building with **Java**, **Python**, **JavaScript**  
+> thinking in systems, writing in code
 
-🛠️ **Organizations**: [@Ravanity](https://github.com/Ravanity)
+- 🎧 music = therapy  
+- 🧭 travel = clarity  
+- 🌐 Discord: `@bettausrosen` / `@rosencode`  
+
+**Links**  
+[Twitter/X](https://x.com/einbettausrosen) · [BlueSky](https://bsky.app/profile/bettausrosen.bsky.social)
+
+---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettausrosen&theme=dark" height="175" alt="languages graph"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bettausrosen&show_icons=true&theme=dark" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettausrosen&theme=dark&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bettausrosen&show_icons=true&theme=dark" height="150"/>
 </div>
