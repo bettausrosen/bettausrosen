@@ -1,6 +1,6 @@
 # bettausrosen
 
-**🇩🇪 18 · he/they · Java Developer**
+**🇩🇪 · he/they · Fullstack Developer**
 
 > computer sciene student in Cologne/Münster  
 > building with **Java**, **Python**, **JavaScript**  
